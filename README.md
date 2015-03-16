@@ -9,3 +9,5 @@ JavaScript implementations of important data structures and algorithms.
   * myCall
   * myCurry
   * Surrogate-based Inheritance
+* Static Arrays
+* Dynamic Arrays
